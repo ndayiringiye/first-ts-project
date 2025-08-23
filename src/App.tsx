@@ -4,7 +4,7 @@ import Hooks from "./Components/hook";
 function App() {
   return (
     <div className="min-h-screen bg-gray-100 flex flex-col items-center py-10">
-      {/* Header */}
+      
       <h1 className="text-4xl font-extrabold text-blue-600 mb-8 font-roboto tracking-wide">
         How are you my friend?
       </h1>
